@@ -1,0 +1,12 @@
+https://affiliationjs.s3.amazonaws.com
+https://amazonclix.com
+https://pixel.facebook.com
+https://an.facebook.com
+https://advertising.twitter.com
+https://d.reddit.com
+https://appmetrica.yandex.com
+https://metrics1.data.hicloud.com
+https://metrics5.data.hicloud.com 
+https://metrics-dra.dt.hicloud.com
+https://business.samsungusa.com
+https://supportmetrics.apple.com
