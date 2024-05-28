@@ -55,3 +55,7 @@ udc.yahoo.com
 udcm.yahoo.com
 w1.luckyorange.com
 widgets.pinterest.com
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
