@@ -66,4 +66,7 @@ trk.pinterest.com
 udcm.yahoo.com
 upload.luckyorange.net
 w1.luckyorange.com
+
 weather-analytics-events.apple.com
+
+ads.microsoft.com
